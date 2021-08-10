@@ -1,8 +1,6 @@
 import discord
 import os
 import requests
-import json
-import operator
 from replit import db
 from keep_alive import keep_alive
 

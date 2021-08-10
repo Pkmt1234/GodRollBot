@@ -1,3 +1,5 @@
+#makes sure the bot keeps running 24/7
+
 from flask import Flask
 from threading import Thread
 
